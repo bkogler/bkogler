@@ -1,4 +1,3 @@
-# bkogler's public code contributions
 This is a selection of my Python projects and packages, available under MIT licence.
 
 Please feel free to use contribute.
