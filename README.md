@@ -3,7 +3,7 @@ This is a selection of my Python projects and packages, available under MIT lice
 
 Please feel free to use contribute.
 
-# goecharger-api (lite)
+# [goecharger-api (lite)]((https://github.com/bkogler/goecharger-api-lite/))
 Lightweight Python API for accessing modern go-eCharger EV wallboxes using local HTTP API v2
 
 ## Supported models
@@ -17,7 +17,7 @@ Lightweight Python API for accessing modern go-eCharger EV wallboxes using local
 
 [goecharger-api-lite on PyPi](https://pypi.org/project/goecharger-api-lite/)
 
-# renault-api-lite
+# [renault-api-lite](https://github.com/bkogler/renault-api-lite/)
 Lightweight Python API for querying status info for a variety of Renault vehicle models
 
 ## Features
